@@ -30,5 +30,4 @@ public class StepTracker{
   }
   return (double) totalSteps/totalDays;
  }
-}
 } 
